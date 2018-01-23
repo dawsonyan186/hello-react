@@ -1,6 +1,7 @@
 {
   "name": "hello-react",
   "version": "0.1.0",
+  "homepage": "https://dawsonyan186.github.io/hello-react/build",
   "private": true,
   "dependencies": {
     "react": "^16.2.0",
